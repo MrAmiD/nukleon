@@ -1,0 +1,300 @@
+@import "vars"
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px)
+  .header-top .basket-info a
+    white-space: normal
+  .header-top
+    .discr-txt
+      white-space: nowrap
+    .logo-cont
+      padding-left: 30px
+    .main-menu ul li
+      padding: 0px 7px
+    .basket-h-cont
+      padding-right: 10px
+  .about-comp .content-r
+    float: none
+    margin: auto
+    text-align: center
+    p
+      max-width: 100%
+  .about-comp .cont-r:nth-child(2) .mega-input .abs-cont
+    width: 80%
+  .preim .item
+    border-bottom: solid 1px #fff
+  #my-footer
+    overflow-x: hidden
+    .vk-widget-cont
+      border-color: transparent
+    .nav-menu
+      border-color: transparent
+      padding-left: 15px
+      padding-top: 52px
+    .lvl2
+      border-color: transparent
+      position: relative
+      padding-top: 83px
+      &:after
+        content: ''
+        width: 300vw
+        height: 1px
+        top: 0px
+        background: $grey
+        z-index: 1
+        position: absolute
+        left: -450%
+  .catalog
+    .pag-cont
+      text-align: left
+      margin-left: -23px
+      .pagination .arr
+        min-width: 32px
+        &.prev .fa
+          padding-right: 0px
+        &.next .fa
+          padding-left: 0px
+
+  .prod-card
+    margin-bottom: 50px
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px)
+  .header-top
+    .basket-h-cont:after
+      content: ''
+      width: 1px
+      height: 200px
+      background: $grey
+      position: absolute
+      right: 0
+      top: -19px
+    .logo-cont
+      padding-left: 15px
+  .content-mainwin
+    width: auto
+  #my-footer
+    .lvl2
+      &:after
+        content: ''
+        width: 300vw
+        height: 1px
+        top: 35px
+        background: $grey
+        z-index: 1
+        position: absolute
+        left: -450%
+  .news-feed .item .prev-cont
+    padding-right: 0px
+  .left-side-m
+    margin: 0 -15px
+    margin-bottom: 15px
+  .pag-cont
+    margin-bottom: 21px
+  .slick-cont
+    margin-top: 20px
+  .prod-card .custom-slick-gallery .big-prod .big-prev
+    min-height: 300px
+  .prod-card .custom-slick-gallery
+    .nav-block
+      margin-top: 15px
+    .gal-prev
+      transform: rotate(-90deg)
+    .gal-next
+      transform: rotate(-90deg)
+  .prod-card .custom-slick-gallery
+    margin-bottom: 20px
+  .prod-card .custom-slick-gallery .slick-cont
+    min-height: auto
+  .number-cont
+    text-align: right
+  .dark-form input
+    width: 100%
+    max-width: none
+    margin-bottom: 10px
+  #map
+    margin-bottom: 30px
+  .map-page ul
+    padding-left: 0
+  .step-disc
+    .number-cont
+      text-align: left
+  .steps-container
+    padding: 0px
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px)
+  .hamb-cont
+    padding-left: 0px
+  .header-top
+    .basket-h-cont
+      text-align: center
+      padding-left: 10px
+      padding-right: 10px
+      &:before
+        content: ''
+        width: 1px
+        height: 200px
+        background: $grey
+        position: absolute
+        left: 0
+        top: -19px
+  .about-comp .content-r
+    width: 100%
+    padding-left: 15px
+    padding-right: 15px
+  .about-comp .cont-r:nth-child(2)
+    padding-left: 0px
+    .mega-input
+      .abs-cont
+        width: 100%
+        input
+          width: 100%
+          max-width: 300px
+        .btn-white
+          position: relative
+          left: 0px
+          top: 0px
+          white-space: nowrap
+          display: block
+          margin: auto
+          margin-top: 20px
+  .about-comp .cont-r:nth-child(2) p:nth-of-type(2)
+    margin-top: 100px
+  #my-footer
+    .logo-cont
+      display: block
+      margin: auto
+    .phone-cont
+      display: block
+      margin-left: 0px
+    .txt-copyr
+      text-align: left
+    .block1
+      padding-bottom: 6px
+    .container-fluid.lvl2
+      display: block!important
+    .nav-menu
+      padding-top: 35px
+    .lvl2
+      padding-top: 27px
+      padding-left: 0
+      padding-right: 0px
+    .pra-logo-cont
+      padding-top: 30px
+      border-top: solid 1px $grey
+      margin-top: 30px
+  .pag-cont
+    text-align: center
+    margin-right: 0px
+  .pagination .arr
+    min-width: 32px
+    &.prev .fa
+      padding-right: 0px
+    &.next .fa
+      padding-left: 0px
+  .catalog
+    .item-cont
+      padding-right: 7px
+    .pag-cont
+      margin-right: -15px
+  .prod-card
+    .number-cont
+      text-align: left
+    .btn-cont
+      text-align: left
+      margin-top: 15px
+  table
+    overflow-x: scroll
+    width: 100%
+    display: block
+    tbody
+      display: block
+      min-width: 700px
+      width: 100%
+  .map-page #map
+    min-height: 300px
+  .number-cont .number input
+    width: 36px
+  .step-disc .item:nth-child(5) .delete-item
+    top: 0px
+    transform: none
+  .order-cont
+    .btn-cont
+      text-align: left
+      .btn-salat
+        margin-left: 0
+  .order-cont
+    margin-top: 20px
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 576px)
+  .main-h1 .h1
+    margin: 30px 0
+    font-size: 28px
+  .prod-card .files-cont .btn-cont2
+    text-align: left
+    margin-top: 15px
+  .prod-card .files-cont .item-file
+    margin-bottom: 30px
+  .prod-card .custom-slick-gallery .slick-cont .item
+    margin-right: 10px
+  .map-page .txt-d
+    max-width: 250px
+  .basket-steps
+    padding-left: 5px
+    padding-right: 5px
+  .step-disc .item
+    padding-right: 5px
+    padding-left: 5px
+  .step-disc .number-cont .number
+    margin-bottom: 20px
+  .delete-item-xs
+    position: absolute
+    top: 0px
+    right: 5px
+  .goods-row
+    margin-left: 0px
+    margin-right: 0px
+  .step-disc .btn-cont .btn-salat
+    display: block
+    text-align: center
+    margin-bottom: 20px
+  .summ
+    display: block
+  .confirm-order-form .item
+    padding-top: 8px
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px)
+	/**/
+
+
+/*==========  Mobile First  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px)
+	/**/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+	/**/
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+  /**/
+
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+	/**/
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+  .container
+    width: 1170px
+    max-width: 100%
+

@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4d3dbb-f277-4185-8481-0ccfe0eb9775" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maket/Font/MuseoSansCyrl-100.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maket/Font/MuseoSansCyrl-500.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maket/Font/MuseoSansCyrl-900.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maket/Font/MuseoSansCyrl_700.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maket/Архив.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl_700.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoBold/RobotoBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoBold/RobotoBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoRegular/RobotoRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoRegular/RobotoRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/PraWebLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/green_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/grey_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/main_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/nukleron_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/bird_blue_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/feature-zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/img/twitter_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/bird_blue_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/feature-zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/img/twitter_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/releated-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/img/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/optimizedhtml-start-template-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/basket-0.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/basket-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/basket-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/catalog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-100.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-500.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MuseoSans/MuseoSansCyrl-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoBold/RobotoBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/RobotoRegular/RobotoRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ht.access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/jquery.maskedinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/ROADMAP.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/_config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.theme.green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/assets/owl.theme.green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/dist/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/css/docs.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.theme.green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/owlcarousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/vendors/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/vendors/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/vendors/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/vendors/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/autoheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/autoplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/autowidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/demos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/lazyLoad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/merge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/mousewheel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/stagepadding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/urlhashnav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/demos/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/api-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/api-events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/api-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/dev-buildin-plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/dev-external.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/dev-plugin-api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/dev-styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/started-faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/started-installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/started-welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/support-changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/support-contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/docs/support-contributing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/custom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/demos.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/docs.theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/scss/highlight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/vendors/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/vendors/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/vendors/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/vendors/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/data/classes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/data/events.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/data/features.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/data/options.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/helpers/modulo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/helpers/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/layouts/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/layouts/docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/layouts/home.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/animate.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/autoheight.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/autoplay.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/autowidth.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/basic.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/center.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/lazyLoad.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/merge.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/mousewheel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/responsive.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/rtl.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/stagepadding.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/test.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/urlhashnav.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/demos/video.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/api-classes.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/api-events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/api-options.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/dev-external.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/dev-styles.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/started-faq.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/started-installation.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/started-welcome.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/support-changelog.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/support-contact.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/docs/support-contributing.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/pages/index.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/footer.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/head.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/header.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/home-carousel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/home-features.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/home-hero.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/home-teaser-text.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/javascripts.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/sidenav-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/title.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/docs_src/templates/partials/vendors.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.autoplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.autorefresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.support.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/js/owl.video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_animate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_autoheight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_lazyload.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_theme.default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_theme.green.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/_video.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/owl.carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/owl.theme.default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/src/scss/owl.theme.green.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/OwlCarousel2-2.2.1/test/unit/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/dist/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/dist/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/dist/jquery.fancybox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/dist/jquery.fancybox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/css/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/css/fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/css/slideshow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/css/thumbs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/guestures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/slideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fancybox-master/src/js/thumbs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/.csscomb.dist.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/hamburgers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_3dx-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_3dx.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_3dy-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_3dy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_arrow-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_arrow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_arrowalt-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_arrowalt.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_boring.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_collapse-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_collapse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_elastic-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_elastic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_emphatic-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_emphatic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_slider-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_spin-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_spin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_spring-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_spring.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_squeeze.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_stand-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_stand.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_vortex-r.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/_sass/hamburgers/types/_vortex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/bs-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/config.postcss.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/dist/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/dist/hamburgers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/dist/hamburgers.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/eyeglass-exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/hamburgers.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/lib/hamburgers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/lib/hamburgers/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/hamburgers-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/autoheight/jquery.mmenu.autoheight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/autoheight/jquery.mmenu.autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/backbutton/jquery.mmenu.backbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/columns/jquery.mmenu.columns.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/columns/jquery.mmenu.columns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/counters/jquery.mmenu.counters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/counters/jquery.mmenu.counters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dividers/jquery.mmenu.dividers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dividers/jquery.mmenu.dividers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/drag/jquery.mmenu.drag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/drag/jquery.mmenu.drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dropdown/jquery.mmenu.dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dropdown/jquery.mmenu.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/fixedelements/jquery.mmenu.fixedelements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/lazysubmenus/jquery.mmenu.lazysubmenus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/navbars/jquery.mmenu.navbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/navbars/jquery.mmenu.navbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/pagescroll/jquery.mmenu.pagescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/rtl/jquery.mmenu.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/rtl/jquery.mmenu.rtl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/searchfield/jquery.mmenu.searchfield.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/searchfield/jquery.mmenu.searchfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/setselected/jquery.mmenu.setselected.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/setselected/jquery.mmenu.setselected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/toggles/jquery.mmenu.toggles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/toggles/jquery.mmenu.toggles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/offcanvas/jquery.mmenu.offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/offcanvas/jquery.mmenu.offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/oncanvas/jquery.mmenu.oncanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/oncanvas/jquery.mmenu.oncanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/screenreader/jquery.mmenu.screenreader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/screenreader/jquery.mmenu.screenreader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/core/scrollbugfix/jquery.mmenu.scrollbugfix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/borderstyle/jquery.mmenu.borderstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/effects/jquery.mmenu.effects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/fullscreen/jquery.mmenu.fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/iconbar/jquery.mmenu.iconbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/listview/jquery.mmenu.listview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/multiline/jquery.mmenu.multiline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/pagedim/jquery.mmenu.pagedim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/popup/jquery.mmenu.popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/positioning/jquery.mmenu.positioning.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/shadows/jquery.mmenu.shadows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/themes/jquery.mmenu.themes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/tileview/jquery.mmenu.tileview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/widescreen/jquery.mmenu.widescreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/jquery.mmenu.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/jquery.mmenu.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/jquery.mmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/jquery.mmenu.debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/jquery.mmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/translations/de/jquery.mmenu.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/translations/nl/jquery.mmenu.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/angular/jquery.mmenu.angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/jquerymobile/jquery.mmenu.jquerymobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/magento/jquery.mmenu.magento.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/olark/jquery.mmenu.olark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/turbolinks/jquery.mmenu.turbolinks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/turbolinks/jquery.mmenu.turbolinks.legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/wordpress/jquery.mmenu.wordpress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/output-page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/product_card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_libs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_media.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_mixins/_font-face.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_vars.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/uslugi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Nukleron" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.58422744">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="421">
+                  <caret line="236" column="38" selection-start-line="236" selection-start-column="38" selection-end-line="236" selection-end-column="38" />
+                  <folding>
+                    <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="output-page.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/output-page.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="156" column="35" selection-start-line="156" selection-start-column="12" selection-end-line="318" selection-end-column="18" />
+                  <folding>
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="product_card.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/product_card.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="512">
+                  <caret line="706" column="9" selection-start-line="691" selection-start-column="6" selection-end-line="706" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_fonts.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_vars.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_libs.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="110">
+                  <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="324">
+                  <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#4450#4535#0" expanded="false" />
+                    <element signature="e#4547#4733#0" expanded="false" />
+                    <element signature="e#4745#4914#0" expanded="false" />
+                    <element signature="e#4926#5200#0" expanded="false" />
+                    <element signature="e#5211#5474#0" expanded="false" />
+                    <element signature="e#5487#5967#0" expanded="false" />
+                    <element signature="e#5978#6542#0" expanded="false" />
+                    <element signature="e#6948#7063#0" expanded="false" />
+                    <element signature="e#7075#7189#0" expanded="false" />
+                    <element signature="e#7200#7295#0" expanded="false" />
+                    <element signature="e#7978#8042#0" expanded="false" />
+                    <element signature="e#8263#9223#0" expanded="false" />
+                    <element signature="e#9236#9760#0" expanded="false" />
+                    <element signature="e#9870#11243#0" expanded="false" />
+                    <element signature="e#14089#14616#0" expanded="false" />
+                    <element signature="e#15664#17525#0" expanded="false" />
+                    <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3532">
+                  <caret line="228" column="20" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#617#1061#0" expanded="false" />
+                    <marker date="1507611103323" expanded="false" signature="1072:1276" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/js/common.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="990">
+                  <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/sass/_fonts.sass" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/sass/_vars.sass" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/sass/_libs.sass" />
+        <option value="$PROJECT_DIR$/app/catalog.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/_media.sass" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>common-js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="common-js" />
+            </dependencies>
+            <task-name>js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+              <dependency value="js" />
+              <dependency value="browser-sync" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>imagemin</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="removedist" />
+              <dependency value="imagemin" />
+              <dependency value="sass" />
+              <dependency value="js" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>deploy</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>rsync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>removedist</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clearcache</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nukleron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nukleron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nukleron" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nukleron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nukleron" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="D:\PraWeb\OwnBegTemplate\Nukleron\node_modules\gulp" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4d3dbb-f277-4185-8481-0ccfe0eb9775" name="Default" comment="" />
+      <created>1499232667624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499232667624</updated>
+      <workItem from="1499232688191" duration="376000" />
+      <workItem from="1499238777693" duration="112000" />
+      <workItem from="1502358247578" duration="667000" />
+      <workItem from="1507093818798" duration="20547000" />
+      <workItem from="1507135112861" duration="4282000" />
+      <workItem from="1507178361408" duration="22918000" />
+      <workItem from="1507259131000" duration="28531000" />
+      <workItem from="1507518331692" duration="28851000" />
+      <workItem from="1507604661601" duration="6869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113153000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17596567" sideWeight="0.53286713" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17596567" sideWeight="0.46713287" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19300225" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19413093" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="230" column="47" selection-start-line="230" selection-start-column="47" selection-end-line="230" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16104">
+          <caret line="732" column="6" selection-start-line="732" selection-start-column="6" selection-end-line="773" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4450#4535#0" expanded="false" />
+            <element signature="e#4547#4733#0" expanded="false" />
+            <element signature="e#4745#4914#0" expanded="false" />
+            <element signature="e#4926#5200#0" expanded="false" />
+            <element signature="e#5211#5474#0" expanded="false" />
+            <element signature="e#5487#5967#0" expanded="false" />
+            <element signature="e#5978#6542#0" expanded="false" />
+            <element signature="e#6948#7063#0" expanded="false" />
+            <element signature="e#7075#7189#0" expanded="false" />
+            <element signature="e#7200#7295#0" expanded="false" />
+            <element signature="e#7978#8042#0" expanded="false" />
+            <element signature="e#8263#9223#0" expanded="false" />
+            <element signature="e#9236#9760#0" expanded="false" />
+            <element signature="e#9870#11243#0" expanded="false" />
+            <element signature="e#14089#14616#0" expanded="false" />
+            <element signature="e#15664#17525#0" expanded="false" />
+            <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="155" column="21" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
+          <folding>
+            <element signature="e#617#1061#0" expanded="false" />
+            <marker date="1507611103323" expanded="false" signature="1072:1276" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="298" column="30" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4224">
+          <caret line="192" column="22" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+          <folding>
+            <element signature="e#4450#4535#0" expanded="false" />
+            <element signature="e#4547#4733#0" expanded="false" />
+            <element signature="e#4745#4914#0" expanded="false" />
+            <element signature="e#4926#5200#0" expanded="false" />
+            <element signature="e#5211#5474#0" expanded="false" />
+            <element signature="e#5487#5967#0" expanded="false" />
+            <element signature="e#5978#6542#0" expanded="false" />
+            <element signature="e#6948#7063#0" expanded="false" />
+            <element signature="e#7075#7189#0" expanded="false" />
+            <element signature="e#7200#7295#0" expanded="false" />
+            <element signature="e#7978#8042#0" expanded="false" />
+            <element signature="e#8263#9223#0" expanded="false" />
+            <element signature="e#9236#9760#0" expanded="false" />
+            <element signature="e#9870#11243#0" expanded="false" />
+            <element signature="e#14089#14616#0" expanded="false" />
+            <element signature="e#15664#17525#0" expanded="false" />
+            <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#617#1061#0" expanded="false" />
+            <marker date="1507611103323" expanded="false" signature="1072:1276" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4450#4535#0" expanded="false" />
+            <element signature="e#4547#4733#0" expanded="false" />
+            <element signature="e#4745#4914#0" expanded="false" />
+            <element signature="e#4926#5200#0" expanded="false" />
+            <element signature="e#5211#5474#0" expanded="false" />
+            <element signature="e#5487#5967#0" expanded="false" />
+            <element signature="e#5978#6542#0" expanded="false" />
+            <element signature="e#6948#7063#0" expanded="false" />
+            <element signature="e#7075#7189#0" expanded="false" />
+            <element signature="e#7200#7295#0" expanded="false" />
+            <element signature="e#7978#8042#0" expanded="false" />
+            <element signature="e#8263#9223#0" expanded="false" />
+            <element signature="e#9236#9760#0" expanded="false" />
+            <element signature="e#9870#11243#0" expanded="false" />
+            <element signature="e#14089#14616#0" expanded="false" />
+            <element signature="e#15664#17525#0" expanded="false" />
+            <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="296" column="122" selection-start-line="296" selection-start-column="122" selection-end-line="296" selection-end-column="122" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#4450#4535#0" expanded="false" />
+            <element signature="e#4547#4733#0" expanded="false" />
+            <element signature="e#4745#4914#0" expanded="false" />
+            <element signature="e#4926#5200#0" expanded="false" />
+            <element signature="e#5211#5474#0" expanded="false" />
+            <element signature="e#5487#5967#0" expanded="false" />
+            <element signature="e#5978#6542#0" expanded="false" />
+            <element signature="e#6948#7063#0" expanded="false" />
+            <element signature="e#7075#7189#0" expanded="false" />
+            <element signature="e#7200#7295#0" expanded="false" />
+            <element signature="e#7978#8042#0" expanded="false" />
+            <element signature="e#8263#9223#0" expanded="false" />
+            <element signature="e#9236#9760#0" expanded="false" />
+            <element signature="e#9870#11243#0" expanded="false" />
+            <element signature="e#14089#14616#0" expanded="false" />
+            <element signature="e#15664#17525#0" expanded="false" />
+            <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="600" column="86" selection-start-line="600" selection-start-column="9" selection-end-line="600" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="569" column="18" selection-start-line="569" selection-start-column="18" selection-end-line="569" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/output-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="156" column="35" selection-start-line="156" selection-start-column="12" selection-end-line="318" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/product_card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="706" column="9" selection-start-line="691" selection-start-column="6" selection-end-line="706" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3532">
+          <caret line="228" column="20" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="20" />
+          <folding>
+            <element signature="e#617#1061#0" expanded="false" />
+            <marker date="1507611103323" expanded="false" signature="1072:1276" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding>
+            <element signature="e#4450#4535#0" expanded="false" />
+            <element signature="e#4547#4733#0" expanded="false" />
+            <element signature="e#4745#4914#0" expanded="false" />
+            <element signature="e#4926#5200#0" expanded="false" />
+            <element signature="e#5211#5474#0" expanded="false" />
+            <element signature="e#5487#5967#0" expanded="false" />
+            <element signature="e#5978#6542#0" expanded="false" />
+            <element signature="e#6948#7063#0" expanded="false" />
+            <element signature="e#7075#7189#0" expanded="false" />
+            <element signature="e#7200#7295#0" expanded="false" />
+            <element signature="e#7978#8042#0" expanded="false" />
+            <element signature="e#8263#9223#0" expanded="false" />
+            <element signature="e#9236#9760#0" expanded="false" />
+            <element signature="e#9870#11243#0" expanded="false" />
+            <element signature="e#14089#14616#0" expanded="false" />
+            <element signature="e#15664#17525#0" expanded="false" />
+            <marker date="1507611532776" expanded="false" signature="9774:9813" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="236" column="38" selection-start-line="236" selection-start-column="38" selection-end-line="236" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

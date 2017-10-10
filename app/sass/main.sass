@@ -1,0 +1,1590 @@
+@import "fonts"
+@import "libs"
+@import "vars"
+
+*
+	outline: none!important
+
+*::-webkit-input-placeholder
+	color: $dark
+	opacity: 1
+	font-size: 14px
+	font-weight: 500
+
+*:-moz-placeholder
+	color: $dark
+	opacity: 1
+	font-size: 14px
+	font-weight: 500
+
+*::-moz-placeholder
+	color: $dark
+	opacity: 1
+	font-size: 14px
+	font-weight: 500
+
+*:-ms-input-placeholder
+	color: $dark
+	opacity: 1
+	font-size: 14px
+	font-weight: 500
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid
+	color: #666
+body input:required:valid,
+body textarea:required:valid
+	color: #666
+
+html, body
+	height: 100%
+
+body
+	font-size: 16px
+	min-width: 320px
+	position: relative
+	line-height: 1.75
+	font-family: $default-font
+	//overflow-x: hidden
+	opacity: 1
+	margin: 0px
+*
+	transition: color .3s ease, opacify .3s ease, border-color .3s ease, background .3s ease
+.img-responsive
+	display: block
+	max-width: 100%
+	height: auto
+
+.h1, h1
+	font-family: $default-font
+	font-size: 36px
+	color: $dark
+	font-weight: 900
+.h2, h2
+	font-family: $default-font
+	font-weight: 900
+	font-size: 25px
+	color: $dark
+.h3, h3, .h4, h4, .h5, h5
+	font-family: $default-font
+	font-size: 18px
+	font-weight: 900
+	color: $dark
+
+p
+	font-family: $default-font
+	font-size: 14px
+	color: $dark
+a
+	text-decoration: none
+	color: $dark
+	&:focus
+		text-decoration: none
+	&:hover, &:focus
+		text-decoration: none
+button
+	-webkit-appearance: button-bevel
+
+@-webkit-keyframes fadeEffect
+	from
+		opacity: 0
+	to
+		opacity: 1
+
+@keyframes bgMove
+	0%
+		background-position: 0px
+	50%
+		background-position: 15px
+	100%
+		background-position: 0px
+
+@keyframes fade-translate
+	0%
+		transform: translate3d(0px, -50px, 0px)
+		opacity: 0
+	50%
+		transform: translate3d(0px, -50px, 0px)
+		opacity: 0
+	100%
+		transform: translate3d(0px, 0px, 0px)
+		opacity: 1
+@keyframes ani-mouse
+	0%
+		opacity: 1
+		top: 29%
+
+	15%
+		opacity: 1
+		top: 50%
+
+	50%
+		opacity: 0
+		top: 50%
+
+	100%
+		opacity: 0
+		top: 29%
+@keyframes shake
+	2%, 18%
+		transform: translate3d(-1px, 0, 0)
+	4%, 16%
+		transform: translate3d(2px, 0, 0)
+	6%, 10%, 14%
+		transform: translate3d(-4px, 0, 0)
+	8%, 12%
+		transform: translate3d(4px, 0, 0)
+	100%
+.text-center
+	text-align: center
+::selection
+	background: $salast; /* Safari */
+	color: #FFFFFF
+::-moz-selection
+	background: $salast; /* Firefox */
+
+#return-to-top
+	position: fixed
+	z-index: 2
+	bottom: 16px
+	right: 20px
+	background: $accent
+	width: 40px
+	height: 40px
+	display: block
+	text-decoration: none
+	-webkit-border-radius: 35px
+	-moz-border-radius: 35px
+	border-radius: 35px
+	display: none
+	-webkit-transition: all 0.3s linear
+	-moz-transition: all 0.3s ease
+	-ms-transition: all 0.3s ease
+	-o-transition: all 0.3s ease
+	transition: all 0.3s ease
+	border: solid 1px $accent
+	i
+		color: #FFFFFF
+		margin: 0
+		position: relative
+		left: 10px
+		top: 5px
+		font-size: 19px
+		-webkit-transition: all 0.3s ease
+		-moz-transition: all 0.3s ease
+		-ms-transition: all 0.3s ease
+		-o-transition: all 0.3s ease
+		transition: all 0.3s ease
+	&:hover
+		background: rgba($accent, 0.8)
+		i
+			color: #fff
+			top: 5px
+
+
+.mm-menu.mm-offcanvas.mm-bottom, .mm-menu.mm-offcanvas.mm-top
+	height: calc(100% - 91px)
+	max-height: 3000px
+.hamburger
+	top: 50%
+	left: 50%
+	transform: translate(-50%, -50%)
+	position: absolute
+	-webkit-appearance: button-bevel!important
+	padding-bottom: 4px
+.hamburger-inner, .hamburger-inner:after, .hamburger-inner:before
+	height: 5px
+	background: #FFFFFF
+.hamburger--emphatic .hamburger-inner:after
+	top: 12px
+.hamburger-inner:before
+	top: -12px
+.hamb-cont
+	text-align: right
+
+#my-menu
+	background: rgba(#ffffff, 1)
+	border-top: solid 1px #000000
+	#mm-2
+		.mm-listview
+			li
+				font-size: 18px
+				&:first-child a
+					padding-top: 20px
+			&>li>a
+				padding: 0px
+				padding: 10px 0px
+	.mm-title
+		color: #000
+		border-color: #000000
+		font-size: 24px
+	.mm-next:after, .mm-prev:before
+		width: 15px
+		height: 15px
+	.mm-navbar
+		border-color: #000000
+	.fa
+		color: #000
+	.mm-next
+		color: #000
+		border-left-color: transparent
+		&:after
+			border-color: #000000
+	.mm-listview
+		//position: relative
+		//top: 50%
+		//transform: translateY(-50%)
+		.mm-listview
+		li
+			&:first-child a
+				padding-top: 40px
+			text-align: center
+			font-family: $default-font
+			font-size: 24px
+			font-weight: 500
+			border-color: transparent
+	.mm-listview>li>a, .mm-listview>li>span
+		padding: 20px 10px 20px 20px
+	.mm-listview .mm-next+a, .mm-listview .mm-next+span
+		margin-right: 0px
+
+.content
+
+
+.btn-underline
+	border-bottom: 1px $accent dashed
+	color: #ffffff
+	&:hover, &:focus
+		color: $accent
+.btn-green
+	background: $accent
+	display: inline-block
+	color: #ffffff
+	padding: 10px 45px
+	border-radius: 120px
+	font-size: 16px
+	&:hover, &:focus
+		background: darken($accent, 5)
+		color: #ffffff
+.btn-salat
+	background: $salast
+	text-align: right
+	padding: 10px 45px
+	border-radius: 120px
+	font-size: 16px
+	color: #FFFFFF
+	&:hover, &:focus
+		background: $dark
+		color: #FFFFFF
+.btn-white
+	background: #ffffff
+	display: inline-block
+	color: $dark
+	padding: 11px 35px
+	border-radius: 120px
+	font-size: 16px
+	border: solid 1px transparent
+	-webkit-appearance: button
+	&:hover, &:focus
+		background: $accent
+		color: #ffffff
+		cursor: pointer
+		border-color: #ffffff
+.btn-dark
+	background: $dark
+	display: inline-block
+	color: #ffffff
+	padding: 10px 59px
+	border-radius: 120px
+	font-size: 16px
+	border: none
+	text-decoration: none
+	&:hover, &:focus
+		background: lighten($dark, 5)
+		color: #ffffff
+		cursor: pointer
+		text-decoration: none
+
+.dark-input
+	background: $dark
+	border-color: $dark
+	padding-left: 15px
+	border-radius: 150px
+	color: #ffffff
+	min-height: 48px
+	&::-webkit-input-placeholder
+		color: #ffffff
+		opacity: 1
+		font-size: 14px
+		font-weight: 500
+	&:-moz-placeholder
+		color: #ffffff
+		opacity: 1
+		font-size: 14px
+		font-weight: 500
+	&::-moz-placeholder
+		color: #ffffff
+		opacity: 1
+		font-size: 14px
+		font-weight: 500
+	&:-ms-input-placeholder
+		color: #ffffff
+		opacity: 1
+		font-size: 14px
+		font-weight: 500
+
+.main-win
+	background-color: #1f1c18
+	padding: 0px
+	position: relative 
+	&.white-h
+		background: #FFFFFF
+		.hamburger-inner, .hamburger-inner:after, .hamburger-inner:before
+			background: $dark
+		.hamburger--emphatic.is-active .hamburger-inner
+			background: transparent
+		.header-top
+			.logo-cont
+				svg path
+					fill: $dark
+				.discr-txt
+					color: $dark
+			.main-menu ul li a
+				color: $dark
+			.phone-cont a.phone
+				color: $dark
+			.btn-underline
+				color: $dark
+			.basket-green
+				color: $dark
+				svg path
+					fill: $dark
+			.basket-info a
+				color: $dark
+.main-page
+	min-height: 100vh
+
+.header-top
+	.discr-txt
+
+
+.header-top, #my-footer
+	.logo-cont
+		padding-right: 0px
+		margin-top: 10px
+	.discr-txt
+		font-weight: 500
+		font-size: 10px
+		color: #ffffff
+		text-align: center
+		text-transform: uppercase
+		padding-bottom: 0px
+		padding-top: 59px
+		&.white-txt
+			color: #FFFFFF
+	.phone-cont
+		text-align: center
+		margin-top: 8px
+		position: relative
+		&:after
+			content: ''
+			width: 1px
+			height: 200px
+			background: $grey
+			position: absolute
+			right: 0px
+			top: -9px
+		&:before
+			content: ''
+			width: 1px
+			height: 200px
+			background: $grey
+			position: absolute
+			left: 0px
+			top: -9px
+		a.phone
+			color: #ffffff
+			font-size: 23px
+			font-weight: 900
+			&:hover, &:focus
+				color: $accent
+
+.header-top
+	position: relative
+	top: 0px
+	.logo-cont
+		text-align: center
+	.phone-cont
+		a:first-child
+			display: block
+	.discr-txt
+		padding-top: 0px
+	.main-menu
+		ul
+			padding: 0px
+			margin: 0px
+			list-style: none
+			margin-top: 31px
+			text-align: right
+			li
+				display: inline-block
+				padding: 0px 16px
+				a
+					color: #ffffff
+					&:hover, &:focus
+						color: $accent
+	.basket-green
+		color: $accent
+		font-size: 16px
+	.basket-info
+		a
+			color: #ffffff
+			font-size: 14px
+			white-space: nowrap
+			border-bottom: 1px dashed transparent
+			&:hover, &:focus
+				border-color: $accent
+	.svg-cont
+		display: inline-block
+	.basket-h-cont
+		margin-top: 15px
+.head-line
+	border-bottom: solid 1px $grey
+	padding: 0px
+	overflow: hidden
+
+.parallax-main
+	overflow: hidden
+.parallax-main
+	img
+		position: absolute
+		width: 100%
+	.img-paralax
+		position: absolute
+		width: 100%
+		height: calc(100% + 150px)
+		background-size: cover!important
+
+
+.content-mainwin
+	text-align: center
+	height: calc(100vh - 91px)
+	padding-top: 0
+	position: relative
+	width: 859px
+	margin: auto
+	position: relative
+	display: flex
+	justify-content: center
+	align-content: center
+	flex-direction: column
+	.h1
+		color: #ffffff
+		text-align: center
+		line-height: 1.2
+		animation: fade-translate 2s ease
+	p
+		color: #ffffff
+		margin-top: 58px
+		margin-bottom: 70px
+		animation: fade-translate 2.3s ease
+	.btn-green
+		animation: fade-translate 3s ease
+	.mouse
+		position: absolute
+		bottom: 0px
+		display: block
+		width: 18px
+		height: 30px
+		margin: 0 auto 20px
+		-webkit-box-sizing: border-box
+		-moz-box-sizing: border-box
+		box-sizing: border-box
+		border: 2px solid white
+		border-radius: 23px
+		left: 50%
+		transform: translateX(-50%)
+		&:before
+			content: ''
+			position: absolute
+			display: block
+			width: 2px
+			height: 5px
+			background: #ffffff
+			left: 50%
+			transform: translateX(-50%)
+			animation: ani-mouse 2.5s linear infinite
+
+.graph-menu
+	.col-12
+		padding: 0px
+		&:nth-child(3)
+			.svg-cont
+				transform: translateY(22px)
+	.item
+		background: $dark
+		min-height: 255px
+		border: solid 1px #ffffff
+		border-right-color: transparent
+		border-bottom-color: transparent
+		position: relative
+		.svg-cont
+			min-height: 64px
+		&:hover, &:focus
+			background: $accent
+			.svg-cont
+				svg path
+					fill: #ffffff
+		.h3
+			color: #ffffff
+			margin-top: 35px
+		.menu-cont
+			position: absolute
+			top: 50%
+			transform: translate(-50%, -50%)
+			left: 50%
+			width: 100%
+.section-anot
+	margin-top: 57px
+	margin-bottom: 50px
+	p
+		text-align: justify
+		margin-top: 30px
+.about-comp
+	margin-top: 112px
+	.content-r
+		text-align: left
+		width: 585px
+		//padding-left: 15px
+		//padding-top: 120px
+		//padding-bottom: 110px
+		position: relative
+		top: 50%
+		transform: translateY(-50%)
+		.h1
+			max-width: 460px
+			display: inline-block
+		p
+			max-width: 460px
+		.h2 
+			a
+				color: #FFFFFF
+				display: inline-block
+				padding-top: 3px
+				&:hover, &:focus
+					text-decoration: underline
+	.cont-r
+		text-align: right
+		padding: 110px 0
+		&:nth-child(1)
+			background: url("../img/grey_bg.png")
+			p
+				margin-top: 20px
+		&:nth-child(2)
+			background-color: $accent
+			background-image: url('../img/green_bg.png')
+			background-size: cover
+			padding-left: 60px
+			.h2
+				color: #ffffff
+				line-height: 1.2
+				font-size: 24px
+			p
+				color: #ffffff
+				margin-top: 35px
+				//margin-bottom: 35px
+				&:first-of-type
+					margin-bottom: 35px
+				a
+					color: #ffffff
+					&:hover, &:focus
+						color: #ffffff
+						text-decoration: underline
+			.btn-white
+				position: relative
+				left: -30px
+			//input
+			//	width: 370px
+			.mega-input
+				position: relative
+				height: 50px
+				.abs-cont
+					position: relative
+					width: 370px
+					input
+						position: relative
+						left: 0px
+						font-size: 14px
+						width: 100%
+					.btn-white
+						position: relative
+						left: 250px
+						top: -49px
+						white-space: nowrap
+	.h1
+		margin-top: 0
+
+
+.preim
+	margin-top: 100px
+	.item
+		background: $dark
+		height: 190px
+		border-right: solid 1px #FFFFFF
+		&:hover
+			background: $accent
+			cursor: default
+			.svg-cont
+				path
+					fill: #ffffff
+		.h3
+			color: #FFFFFF
+			font-size: 15px
+			text-align: center
+			margin-top: 7px
+		.item-content
+			position: relative
+			top: 50%
+			transform: translateY(-50%)
+		.svg-cont
+			text-align: center
+	.preim-cont
+		margin-top: 38px
+
+.main-h1
+	text-align: center
+	border-bottom: 1px solid $grey-l
+	.h1
+		margin: 30px 0
+.bread-c
+	border-bottom: solid 1px $grey-l
+	margin-bottom: 15px
+.breadcrumb
+	padding: 0
+	margin-bottom: 20px
+	list-style: none
+	background-color: transparent
+	-webkit-border-radius: 4px
+	border-radius: 4px
+	margin: 15px 0px
+	text-align: right
+	.active
+		color: #000 !important
+		font-weight: 900
+	li
+		display: inline-block
+		font-size: 13px
+		a
+			color: $dark
+			&:hover
+				color: $accent
+				text-decoration: none
+	&>li+li:before
+		content: "/"
+		padding: 0 3px
+		padding-left: 0px
+		color: $dark
+		font-weight: 500
+.B_crumbBox
+	padding: 0
+	margin-bottom: 20px
+	list-style: none
+	background-color: transparent
+	-webkit-border-radius: 4px
+	border-radius: 4px
+	margin: 34px 0px
+	margin-bottom: 40px
+	position: relative
+	z-index: 4
+	.B_lastCrumb
+		display: none
+	.B_currentCrumb
+		color: #000 !important
+		display: inline
+	li
+		display: inline-block
+		font-size: 13px
+		a:hover
+			color: #000
+		a:hover
+			color: $accent
+	&>li+li:before
+		content: "/\00a0"
+		padding: 0 5px
+		color: #ccc
+.pag-cont
+	text-align: right
+	margin: 0
+	margin-bottom: 50px
+	margin-right: -30px
+.pagination
+	padding: 0px
+	display: inline-block
+	margin-top: 20px
+	margin-bottom: 5px
+	.arr
+		min-width: 95px
+		min-height: 32px
+		border: solid 1px #b4b4b4
+		line-height: 30px
+		font-size: 12px
+		font-weight: 500
+		border-radius: 0px
+		&.disabled
+			a
+				color: #b4b4b4
+				pointer-events: none
+				cursor: default
+				transition: background .3s ease
+			&:hover
+				background-color: transparent
+				border-color: #b4b4b4
+		&.prev
+			.fa
+				padding-right: 10px
+		&.next
+			.fa
+				padding-left: 10px
+	li
+		margin-bottom: 15px
+		margin-right: 10px
+		width: 20px
+		height: 20px
+		display: inline-block
+		text-align: center
+		line-height: 16px
+		border-radius: 0px
+		border: solid 1px transparent
+		position: relative
+		transition: all .3s ease
+		border-radius: 50%
+		transition: background .3s ease
+		&.dots
+			border: none
+		&:not(.dots):hover
+			background-color: $accent
+			border-color: $accent
+		a
+			font-size: 12px
+			font-weight: 500
+			display: inline-block
+			width: 100%
+			height: 100%
+			color: #000
+			transition: background .3s ease
+			&:hover
+				text-decoration: none
+				color: #ffffff
+		&:last-child
+			margin-right: 0px
+		&.active
+			background-color: $accent
+			a
+				color: #ffffff
+				transition: background .3s ease
+.news-feed
+	.item
+		border: solid 1px $grey-l
+		margin-bottom: 15px
+		&:hover
+			border-color: $salast
+		.prev-cont
+			padding-left: 0
+		.prev-news
+			width: 100%
+			min-height: 277px
+			background-size: cover!important
+			background-position: center!important
+			height: 100%
+		.date
+			font-size: 12px
+			font-weight: 500
+			margin-top: 17px
+			margin-bottom: 10px
+		.introduction
+			margin-top: 12px
+		.h2:hover
+			color: $accent
+		.btn-green
+			background: $salast
+			text-align: right
+			margin-bottom: 15px
+			&:hover
+				background: $dark
+	&.news-feed-options
+		.h2
+			margin-top: 25px
+		.prev-opt
+			background: $dark
+			width: 100%
+			height: 100%
+			min-height: 180px
+			&:hover
+				background: $salast
+				.svg-cont
+					path
+						fill: #ffffff
+				.h3
+					color: #FFFFFF
+		.h3
+			color: $salast
+			margin-top: 25px
+		.svg-cont
+			text-align: center
+			position: relative
+			top: 50%
+			transform: translateY(-50%)
+.left-side-m
+	border: solid 1px $grey-l
+	.h3
+		font-size: 16px
+		margin-bottom: 18px
+		padding-left: 20px
+	ul
+		margin: 0
+		padding: 0
+		list-style: none
+		li
+			line-height: 35px
+			vertical-align: middle
+			padding-left: 20px
+			padding-right: 20px
+			&.active
+				background: #e8e8e8
+			&:hover
+				background: $salast
+				a
+					color: #FFFFFF
+			a
+				font-size: 14px
+				line-height: 1.2
+				display: block
+				vertical-align: middle
+				width: 100%
+				height: 100%
+				padding-bottom: 7px
+				padding-top: 7px
+				&:hover, &:focus
+					color: #FFFFFF
+	.item
+		padding-top: 30px
+		padding-bottom: 40px
+		border-bottom: solid 1px $grey-l
+.catalog
+	.item-cont
+		padding: 7px
+		.item
+			border: solid 1px $grey-l
+			position: relative
+			&.new:after
+				content: 'NEW'
+				position: absolute
+				top: 12px
+				left: 12px
+				width: 45px
+				height: 45px
+				text-align: center
+				line-height: 48px
+				font-size: 12px
+				color: #FFFFFF
+				font-weight: 900
+				background: $salast
+				border-radius: 50%
+			&.sale:after
+				content: 'SALE'
+				position: absolute
+				top: 12px
+				left: 12px
+				width: 45px
+				height: 45px
+				text-align: center
+				line-height: 48px
+				font-size: 12px
+				color: $dark
+				font-weight: 900
+				background: #ffc000
+				border-radius: 50%
+			&:hover
+				border-color: $salast
+				a p
+					font-weight: 700
+				.add-basket
+					//animation: shake 5.3s ease
+			p
+				font-size: 13px
+				line-height: 1.2
+				margin-top: 15px
+				padding: 0 5px
+				margin-bottom: 30px
+				transition: font-weight .3s ease
+			.catalog-prev
+				background-color: $dark
+				min-height: 145px
+				background-size: cover!important
+				background-position: center!important
+			.price
+				display: inline-block
+				padding: 0 5px
+				width: 40%
+				.price-old
+					font-size: 14px
+					display: block
+					text-decoration: line-through
+					color: $grey
+				.price-new
+					display: block
+					font-size: 20px
+					font-weight: 900
+					line-height: 1
+					color: $dark
+			.count
+				display: inline-block
+				width: 35%
+				position: relative
+				z-index: 2
+				user-select: none
+				text-align: right
+				.number
+					position: relative
+					top: -14px
+					input
+						display: inline-block
+						width: 25px
+						text-align: center
+						font-size: 18px
+						font-weight: 500
+						border-color: transparent
+					.plus, .minus
+						cursor: pointer
+						padding: 3px
+			.basket
+				display: inline-block
+				width: 20%
+				text-align: right
+				margin-bottom: 15px
+				position: relative
+				top: -15px
+
+	.pag-cont
+		margin-right: -23px
+.add-basket
+	width: 40px
+	height: 40px
+	background: $salast
+	border-radius: 50%
+	position: relative
+	z-index: 1
+	.svg-cont
+		position: relative
+		top: 2px
+	&:hover
+		cursor: pointer
+		background: darken($salast, 10)
+#my-footer
+	background: $dark
+	margin-top: 90px
+	.block1
+		padding-top: 57px
+		padding-bottom: 57px
+	.logo-cont
+		width: 80px
+		display: inline-block
+		.discr-txt
+			padding-top: 0px
+	.phone-cont
+		display: inline-block
+		vertical-align: top
+		border: none
+		margin-left: 57px
+		margin-top: 18px
+		&:before, &:after
+			display: none
+		.phone
+			border: none
+			text-decoration: none
+	.txt-copyr
+		p
+			color: #FFFFFF
+			margin-top: 20px
+			margin-bottom: 0
+			font-size: 12px
+	.vk-widget-cont
+		text-align: center
+		padding-top: 35px
+		border-left: solid 1px $grey
+		#vk_groups
+			margin: auto
+	.nav-menu
+		padding-top: 56px
+		border-left: solid 1px $grey
+		//border-right: solid 1px $grey
+		padding-left: 36px
+		.h3
+			font-size: 16px
+			font-weight: 700
+			color: $accent
+		ul
+			list-style: none
+			position: relative
+			padding-left: 30px
+			li
+				color: #FFFFFF
+				&:before
+					content: ''
+					width: 15px
+					height: 2px
+					position: absolute
+					background: $grey-dark
+					left: 0px
+					margin-top: 12px
+				a
+					color: #ffffff
+					font-size: 12px
+					text-decoration: none
+					&:hover, &:focus
+						color: $accent
+	a
+		color: $accent
+		text-decoration: underline
+		&:hover, &:focus
+			color: $accent
+			text-decoration: none
+	.lvl2
+		border-top: solid 1px $grey
+		padding-top: 30px
+		padding-bottom: 30px
+		p
+			color: #FFFFFF
+			font-size: 11px
+			margin-bottom: 0px
+	.pra-logo-cont
+		text-align: center
+		img
+			position: relative
+			top: 50%
+			transform: translateY(-50%)
+.green-txt
+	color: $accent
+#consult, .popup
+	max-width: 520px
+	background: $salast
+	padding-left: 30px
+	padding-right: 30px
+	overflow: visible
+	min-height: 327px
+	position: relative
+	min-width: 517px
+	.h4
+		color: #FFFFFF
+		font-size: 25px
+		font-weight: 900
+	p
+		color: #FFFFFF
+		margin-top: 20px
+	a
+		color: #FFFFFF
+		&:hover, &:focus
+			text-decoration: underline
+	input
+		display: block
+		width: 100%
+		background: $salast
+		border: none
+		border-bottom: solid 1px #FFFFFF
+		line-height: 40px
+		color: #FFFFFF
+		&::-webkit-input-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&:-moz-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&::-moz-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+	.client-msg
+		display: none
+	.fancybox-close-small
+		position: absolute
+		top: 0
+		right: -35px
+		width: 28px
+		height: 22px
+		&:after
+			background: transparent
+			font-weight: 600
+			font-size: 35px
+			color: #FFFFFF
+			top: -5px
+			right: 0px
+			outline: none!important
+			transition: color .3s ease
+		&:hover, &:focus
+			&:after
+				color: darken(#FFFFFF, 40)
+	.content-txt
+		text-align: center
+		position: relative
+		padding-top: 80px
+		//top: 50%
+		//transform: translateY(-50%)
+		vertical-align: middle
+		max-width: 330px
+		margin: auto
+		.h1
+			color: #FFFFFF
+			font-size: 45px
+		.txt-p
+			color: #FFFFFF
+			font-size: 18px
+			font-weight: 500
+#basketAddPopup
+	max-width: 520px
+	background: $salast
+	padding-left: 30px
+	padding-right: 30px
+	overflow: visible
+	min-height: 327px
+	position: relative
+	min-width: 517px
+	.h2
+		color: #FFFFFF
+		font-size: 25px
+		font-weight: 900
+	p
+		color: #FFFFFF
+		margin-top: 20px
+	a
+		color: #FFFFFF
+		&:hover, &:focus
+			text-decoration: underline
+	.client-msg
+		display: none
+	.fancybox-close-small
+		position: absolute
+		top: 0
+		right: -35px
+		width: 28px
+		height: 22px
+		&:after
+			background: transparent
+			font-weight: 600
+			font-size: 35px
+			color: #FFFFFF
+			top: -5px
+			right: 0px
+			outline: none!important
+			transition: color .3s ease
+		&:hover, &:focus
+			&:after
+				color: darken(#FFFFFF, 40)
+	.content-txt
+		text-align: center
+		position: relative
+		padding-top: 80px
+		//top: 50%
+		//transform: translateY(-50%)
+		vertical-align: middle
+		max-width: 330px
+		margin: auto
+		.h1
+			color: #FFFFFF
+			font-size: 45px
+		.txt-p
+			color: #FFFFFF
+			font-size: 18px
+			font-weight: 500
+	.btn-dark
+		text-decoration: none!important
+		&:hover
+			text-decoration: none
+.prod-card
+	.custom-slick-gallery
+		margin-bottom: 50px
+		.slick-cont
+			min-height: 455px
+			//background: $grey
+			max-height: 900px
+			overflow: hidden
+			.item
+				height: 188px
+				.prod-prev
+					width: 100%
+					height: 100%
+					background-repeat: no-repeat
+					background-size: 140px
+					border: solid 5px transparent
+					background-position: center
+					&:hover
+						border: solid 5px $grey-l
+						cursor: pointer
+					&.slick-clicked
+						border: solid 5px $grey-l
+		.nav-block
+			width: 100%
+			text-align: center
+			margin-top: 30px
+			.gal-btn
+				background: #FFFFFF
+				border: none
+				cursor: pointer
+				path
+					transition: all .3s ease
+				&:hover
+					.svg-cont
+						path
+							fill: $dark
+		.big-prod
+			border: solid 1px $grey-l
+			height: 100%
+			.big-prev
+				width: 100%
+				height: 100%
+				background-repeat: no-repeat
+				background-size: contain
+				background-position: center
+				min-height: 450px
+	.price
+		&.old-price
+			p
+				color: $grey
+				&:nth-child(2)
+					text-decoration: line-through
+		p
+			margin: 0px
+			&:first-child
+				font-size: 16px
+			&:nth-child(2)
+				font-size: 24px
+				font-weight: 700
+	.btn-green
+		background: $salast
+		padding: 10px 32px
+		position: relative
+		&:hover
+			background: $dark
+		.svg-cont
+			position: relative
+			display: inline-block
+			top: 5px
+			padding-left: 10px
+	.btn-cont
+		text-align: right
+		top: 50%
+		position: relative
+		transform: translateY(-50%)
+	.price-info
+		margin-bottom: 0px
+	.content
+		.h2
+			border-bottom: solid 1px $grey
+			padding-bottom: 28px
+			margin-bottom: 35px
+			margin-top: 50px
+		table
+			width: 100%
+			tr
+				&:nth-child(odd)
+					background: $grey-l
+				td, th
+					border-right: solid 1px $grey
+					padding-left: 30px
+					padding-right: 30px
+					&:last-child
+						border-color: transparent
+	.files-cont
+		margin-bottom: 50px
+		.file-link
+			position: relative
+			top: 50%
+			display: inline-block
+			transform: translateY(-50%)
+			&:hover
+				color: $salast
+		a:not(.btn-green)
+			text-decoration: underline
+		.btn-cont2
+			position: relative
+			text-align: right
+		.item-file
+			margin-bottom: 15px
+		.btn-green
+			font-size: 16px
+.number-cont
+	position: relative
+	user-select: none
+	.number
+		position: relative
+		top: 50%
+		transform: translateY(-50%)
+		input
+			border-top: solid 1px $grey-dark
+			border-bottom: solid 1px $grey-dark
+			border-right: none
+			border-left: none
+			text-align: center
+			width: 73px
+			line-height: 26px
+			position: relative
+			left: -4px
+		.c-btn
+			display: inline-block
+			width: 30px
+			border: solid 1px $grey-dark
+			text-align: center
+			position: relative
+			cursor: pointer
+			&:hover
+				background: $salast
+				color: #FFFFFF
+			&.minus
+				left: 1px
+				z-index: 1
+			&.plus
+				left: -8px
+.dark-form
+	background: $dark
+	padding: 40px 30px
+	.h2
+		color: #FFFFFF
+		border-bottom: solid 1px #465a27
+		padding-bottom: 28px
+		margin-bottom: 27px
+	p
+		color: #FFFFFF
+		margin-bottom: 5px
+		margin-top: 20px
+		a
+			color: #FFFFFF
+			&:hover
+				text-decoration: underline
+	input
+		border: none
+		border-bottom: solid 1px #465a27
+		background: $dark
+		width: 33%
+		max-width: 253px
+		color: #FFFFFF
+		&:not(:last-of-type)
+			margin-right: 10px
+		&::-webkit-input-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&:-moz-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&::-moz-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&:-ms-input-placeholder
+			color: #FFFFFF
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+	textarea
+		width: 100%
+		resize: none
+	.btn-green
+		background: $salast
+		margin-top: 20px
+		&:hover
+			background: darken($salast, 10)
+			cursor: pointer
+.map-page
+	margin-top: 45px
+	#map
+		width: 100%
+		min-height: 300px
+		height: 100%
+		background: $grey-l
+	ul
+		list-style: none
+		padding-left: 0px
+		li
+			line-height: 1.3
+			padding-bottom: 25px
+			position: relative
+			display: block
+			&:nth-of-type(2)
+				.svg-cont
+					svg
+						transform: translateY(2px)
+			&:nth-of-type(3)
+				.svg-cont
+					svg
+						transform: translateY(2px)
+			&:nth-of-type(5)
+				.svg-cont
+					svg
+						transform: translate(0px, 4px)
+			&:nth-of-type(6), &:nth-of-type(7)
+				.svg-cont
+					svg
+						transform: translate(0px, 3px)
+	.svg-cont
+		display: inline-block
+		background: $dark
+		width: 28px
+		height: 28px
+		border-radius: 50%
+		text-align: center
+		line-height: 28px
+		position: relative
+		top: 50%
+		vertical-align: top
+	.txt-d
+		display: inline-block
+		max-width: 420px
+		padding-left: 10px
+		padding-top: 6px
+	b
+		font-weight: 900
+.basket-steps
+	.step
+		background: $grey-l
+		padding: 25px 50px
+		position: relative
+		margin-top: 20px
+		min-height: 125px
+		display: flex
+		flex-direction: column
+		justify-content: center
+		&.active
+			background: $salast
+			.h3
+				color: #FFFFFF
+			p
+				color: #FFFFFF
+		.step-cont
+			position: relative
+			top: 50%
+		.h3
+			text-align: center
+			color: $grey
+		p
+			color: $grey
+		p
+			text-align: center
+			margin-bottom: 0px
+.goods-row
+	border-bottom: solid 1px $grey-l
+	padding-bottom: 15px
+	margin-bottom: 15px
+.step-disc
+	margin-top: 20px
+	.h3
+		margin-top: 30px
+		margin-bottom: 50px
+	ul
+		padding: 0px
+		list-style: none
+		li
+			padding-bottom: 10px
+			a
+				text-decoration: underline
+				&:hover
+					text-decoration: none
+					color: $salast
+	.h2
+		font-weight: 700
+		text-align: right
+		margin-top: 50px
+		margin-bottom: 30px
+	.btn-cont
+		text-align: right
+		.btn-salat
+			margin-left: 10px
+			font-weight: 900
+			padding: 10px 25px
+			font-size: 16px
+	p
+		font-size: 12px
+	.item
+		padding: 0px
+		padding-right: 10px
+		a
+			font-size: 12px
+			line-height: 21px
+			display: inline-block
+			&:hover
+				color: $salast
+		&:nth-child(5)
+			position: relative
+			p
+				display: inline-block
+			.delete-item
+				position: absolute
+				right: 0px
+				top: 50%
+				transform: translateY(-50%)
+				margin: 0px
+				padding: 5px
+				&:hover
+					cursor: pointer
+					path
+						fill: $salast
+	.number-cont .number
+		top: 0px
+		transform: none
+.confirm-order-form
+	width: 100%
+	.red-star
+		color: red
+	input
+		border-radius: 2px
+		width: 100%
+		border: solid 1px $grey
+		padding-left: 15px
+		&::-webkit-input-placeholder
+			color: $grey
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&:-moz-placeholder
+			color: $grey
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&::-moz-placeholder
+			color: $grey
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+		&:-ms-input-placeholder
+			color: $grey
+			opacity: 1
+			font-size: 14px
+			font-weight: 500
+	.item
+		border-bottom: solid 1px $grey-l
+		padding: 20px 0
+		&:last-of-type
+			border-bottom: none
+		p.label
+			font-size: 14px
+			margin-bottom: 0px
+			line-height: 32px
+
+.order-text
+	a
+		color: $accent
+		text-decoration: underline
+		&:hover
+			text-decoration: none
+.order-cont
+	margin-top: 50px
+	.btn-salat
+		display: inline-block
+@import "media" // Всегда в конце

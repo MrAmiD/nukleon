@@ -40,16 +40,20 @@ $(function() {
             "effect-menu-slide"
         ],
         "offCanvas": {
-            "position": "right"
+            "position": "bottom"
         },
         "navbar": {
             "title": ""
         }
     });
+
+    //Если меню выезжает снизу, расчитываем размер шапки и выкатываем меню до неё
+    $(".mm-menu.mm-offcanvas.mm-bottom").css('height', $(window).height() - $('.header-top').height());
     var api = $("#my-menu").data( "mmenu" );
     //   Hook into methods
     api.bind( "open:finish", function() {
         $("#menu-btn").addClass('is-active');
+        $(".mm-menu.mm-offcanvas.mm-bottom").css('height', $(window).height() - $('.header-top').height());
     });
     api.bind( "close:finish", function( $panel ) {
         $("#menu-btn").removeClass('is-active');

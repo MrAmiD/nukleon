@@ -183,7 +183,7 @@ button
 
 
 .mm-menu.mm-offcanvas.mm-bottom, .mm-menu.mm-offcanvas.mm-top
-	height: calc(100% - 91px)
+	//height: calc(100% - 91px)
 	max-height: 3000px
 .hamburger
 	top: 50%
@@ -192,6 +192,7 @@ button
 	position: absolute
 	-webkit-appearance: button-bevel!important
 	padding-bottom: 4px
+	padding-left: 0px
 .hamburger-inner, .hamburger-inner:after, .hamburger-inner:before
 	height: 5px
 	background: #FFFFFF
@@ -203,7 +204,7 @@ button
 	text-align: right
 
 #my-menu
-	background: rgba(#ffffff, 1)
+	background: rgba($dark, 0.6)
 	border-top: solid 1px #000000
 	#mm-2
 		.mm-listview
@@ -231,25 +232,123 @@ button
 		&:after
 			border-color: #000000
 	.mm-listview
-		//position: relative
-		//top: 50%
-		//transform: translateY(-50%)
+		position: relative
+		top: 50%
+		transform: translateY(-50%)
+		z-index: 4
 		.mm-listview
 		li
 			&:first-child a
 				padding-top: 40px
+			&.active
+				color: $salast
 			text-align: center
 			font-family: $default-font
-			font-size: 24px
-			font-weight: 500
+			font-size: 36px
+			letter-spacing: 4px
+			font-weight: 900
 			border-color: transparent
+			color: #FFFFFF
 	.mm-listview>li>a, .mm-listview>li>span
 		padding: 20px 10px 20px 20px
 	.mm-listview .mm-next+a, .mm-listview .mm-next+span
 		margin-right: 0px
 
-.content
-
+.content.content-page
+	overflow-x: hidden
+	h1
+		font-size: 36px
+		font-weight: 900
+		margin: 15px 0
+	h2
+		font-size: 25px
+		font-weight: 900
+		margin: 15px 0
+	h3
+		font-size: 25px
+		font-weight: 900
+		margin: 10px 0
+		border-bottom: solid 1px $grey-l
+		padding-bottom: 30px
+		margin-top: 25px
+	h4, h5, h6
+		font-size: 18px
+		font-weight: 900
+		margin: 10px 0
+	p
+		font-size: 16px
+		line-height: 1.875
+		margin-bottom: 40px
+		max-width: 850px
+	a
+		color: $salast
+		&:hover
+			text-decoration: underline
+	blockquote
+		font-weight: 900
+		font-size: 14px
+		line-height: 1.2
+		padding-left: 45px
+		margin: 10px 0
+		position: relative
+		&:before
+			content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31px" height="25px"><path fill-rule="evenodd"  fill="rgb(130, 182, 61)" d="M30.955,9.986 C30.899,11.881 30.652,13.744 29.950,15.516 C28.384,19.472 25.717,22.370 21.889,24.141 C21.330,24.400 20.765,24.646 20.191,24.904 C19.151,23.124 18.134,21.382 17.112,19.632 C19.722,18.382 21.435,16.442 21.937,13.469 C21.680,13.442 21.468,13.439 21.265,13.397 C19.324,12.995 18.036,11.772 17.298,9.964 C16.678,8.444 16.606,6.840 17.072,5.265 C17.752,2.967 19.393,1.697 21.618,1.128 C21.969,1.038 22.331,0.996 22.689,0.931 C23.155,0.931 23.621,0.931 24.088,0.931 C24.604,1.026 25.130,1.083 25.634,1.221 C28.266,1.939 29.824,3.750 30.584,6.342 C30.933,7.529 30.992,8.754 30.955,9.986 ZM13.220,15.709 C11.597,19.674 8.853,22.523 4.993,24.259 C4.514,24.474 4.031,24.680 3.531,24.898 C2.497,23.127 1.480,21.386 0.457,19.633 C3.066,18.380 4.779,16.441 5.281,13.470 C5.013,13.441 4.800,13.439 4.596,13.393 C2.328,12.874 0.972,11.376 0.387,9.158 C-0.015,7.635 0.001,6.079 0.644,4.612 C1.538,2.575 3.172,1.488 5.277,1.062 C5.523,1.013 5.771,0.975 6.019,0.931 C6.485,0.931 6.952,0.931 7.418,0.931 C7.934,1.025 8.461,1.081 8.965,1.219 C11.686,1.962 13.251,3.850 13.980,6.540 C14.321,7.797 14.337,9.087 14.283,10.378 C14.206,12.211 13.918,14.003 13.220,15.709 Z"/></svg>')
+			display: block
+			width: 22px
+			height: 10px
+			position: absolute
+			left: 0px
+			top: 0px
+	table
+		width: 100%
+		tr
+			&:nth-child(odd)
+				background: #e8e8e8
+			td, th
+				border-right: solid 1px $grey-l
+				padding-left: 30px
+				padding-right: 30px
+				&:last-child
+					border-color: transparent
+	ul
+		list-style: none
+		margin-top: 20px
+		li
+			position: relative
+			font-weight: 700
+			&:before
+				content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="11px"><path fill-rule="evenodd"  fill="rgb(130, 182, 61)" d="M5.500,0.550 L10.450,5.500 L5.500,10.450 L0.550,5.500 L5.500,0.550 Z"/></svg>')
+				display: block
+				width: 22px
+				height: 10px
+				position: absolute
+				left: -25px
+				top: 0px
+			ul
+				margin-top: 0px
+				li
+					font-size: 12px
+					font-weight: 700
+					&:before
+						content: ''
+						display: block
+						width: 15px
+						height: 1px
+						background: $salast
+						position: absolute
+						left: -25px
+						top: 50%
+						transform: translateY(-50%)
+	ol
+		list-style-type: none
+		counter-reset:  item
+		padding-left: 0px
+		margin-top: 20px
+		li
+			font-weight: 700
+			&:before
+				content: counter(item) ') '
+				counter-increment: item
 
 .btn-underline
 	border-bottom: 1px $accent dashed
@@ -1587,4 +1686,50 @@ button
 	margin-top: 50px
 	.btn-salat
 		display: inline-block
+#content-slider
+	background-color: $dark
+	padding: 0px
+	.item
+		max-height: 370px
+		background-repeat: no-repeat
+		position: relative
+		&:hover
+			img
+				opacity: 0.5
+			&:after
+				content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33px" height="33px"><path fill-rule="evenodd"  fill="rgb(255, 255, 255)" d="M16.975,32.818 C8.084,32.816 0.896,25.655 0.902,16.806 C0.909,8.019 8.098,0.844 16.892,0.846 C25.794,0.848 32.870,7.966 32.872,16.918 C32.873,25.655 25.709,32.821 16.975,32.818 ZM16.889,3.767 C9.647,3.766 3.823,9.588 3.824,16.828 C3.824,23.984 9.712,29.890 16.850,29.897 C24.042,29.903 29.948,24.015 29.950,16.834 C29.953,9.595 24.129,3.768 16.889,3.767 ZM24.429,18.301 C22.657,18.283 20.884,18.316 19.113,18.283 C18.520,18.272 18.325,18.448 18.337,19.052 C18.373,20.802 18.334,22.553 18.358,24.303 C18.366,24.858 18.195,25.100 17.617,25.056 C17.123,25.018 16.622,25.021 16.127,25.054 C15.585,25.090 15.410,24.868 15.417,24.339 C15.439,22.589 15.400,20.838 15.438,19.088 C15.452,18.463 15.260,18.267 14.634,18.280 C12.884,18.317 11.133,18.279 9.383,18.301 C8.859,18.307 8.630,18.141 8.666,17.595 C8.700,17.057 8.690,16.514 8.668,15.975 C8.649,15.524 8.841,15.358 9.281,15.366 C10.210,15.383 11.140,15.371 12.069,15.371 C12.955,15.370 13.842,15.346 14.726,15.380 C15.260,15.400 15.444,15.219 15.436,14.678 C15.409,12.906 15.442,11.134 15.416,9.362 C15.408,8.808 15.571,8.563 16.153,8.608 C16.669,8.648 17.191,8.638 17.708,8.612 C18.186,8.588 18.357,8.784 18.353,9.256 C18.337,11.028 18.370,12.801 18.335,14.572 C18.323,15.190 18.502,15.398 19.136,15.383 C20.885,15.344 22.637,15.383 24.387,15.362 C24.908,15.356 25.144,15.516 25.108,16.065 C25.074,16.582 25.079,17.103 25.108,17.620 C25.137,18.129 24.929,18.306 24.429,18.301 Z"/></svg>')
+				width: 100%
+				text-align: center
+				height: 35px
+				position: absolute
+				top: 50%
+				transform: translateY(-50%)
+				z-index: -1
+		img
+			margin: 0px
+			width: 100%
+			object-fit: cover
+.slider-content-container
+	position: relative
+	.nav-block
+		position: absolute
+		z-index: 1
+		bottom: 15px
+		right: 20px
+		button
+			background: transparent
+			border: none
+			cursor: pointer
+			display: block
+			&:hover
+				.svg-cont
+					svg path
+						fill: $salast
+			.svg-cont
+				height: 20px
+				svg
+					path
+						fill: #ffffff
+.fancybox-button--play, .fancybox-button--thumbs
+	display: none
 @import "media" // Всегда в конце

@@ -58,5 +58,7 @@ $(function() {
     api.bind( "close:finish", function( $panel ) {
         $("#menu-btn").removeClass('is-active');
     });
+ 
+
 
 });

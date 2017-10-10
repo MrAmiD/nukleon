@@ -192,7 +192,6 @@ button
 	position: absolute
 	-webkit-appearance: button-bevel!important
 	padding-bottom: 4px
-	padding-left: 0px
 .hamburger-inner, .hamburger-inner:after, .hamburger-inner:before
 	height: 5px
 	background: #FFFFFF
@@ -206,6 +205,7 @@ button
 #my-menu
 	background: rgba($dark, 0.6)
 	border-top: solid 1px #000000
+	z-index: 12
 	#mm-2
 		.mm-listview
 			li
@@ -432,6 +432,8 @@ button
 		font-size: 14px
 		font-weight: 500
 
+
+
 .main-win
 	background-color: #1f1c18
 	padding: 0px
@@ -448,18 +450,45 @@ button
 					fill: $dark
 				.discr-txt
 					color: $dark
+					margin-bottom: 5px
 			.main-menu ul li a
 				color: $dark
+				&:hover
+					color: $salast
 			.phone-cont a.phone
 				color: $dark
 			.btn-underline
 				color: $dark
+				&:hover
+					color: $salast
 			.basket-green
 				color: $dark
 				svg path
 					fill: $dark
-			.basket-info a
-				color: $dark
+			.basket-info
+				.basket-count
+					display: inline-block
+				a
+					color: $dark
+			.basket-h-cont
+				&:after
+					content: ''
+					width: 1px
+					height: 200px
+					background: $grey
+					position: absolute
+					right: 0px
+					top: -19px
+					display: none
+		.hamb-cont
+			&:before
+				content: ''
+				width: 1px
+				height: 200px
+				background: $grey
+				position: absolute
+				left: 0px
+				top: -19px
 .main-page
 	min-height: 100vh
 
@@ -975,6 +1004,7 @@ button
 		.item
 			border: solid 1px $grey-l
 			position: relative
+			height: 100%
 			&.new:after
 				content: 'NEW'
 				position: absolute
@@ -1013,8 +1043,8 @@ button
 				font-size: 13px
 				line-height: 1.2
 				margin-top: 15px
-				padding: 0 5px
-				margin-bottom: 30px
+				padding: 0 15px
+				margin-bottom: 15px
 				transition: font-weight .3s ease
 			.catalog-prev
 				background-color: $dark
@@ -1024,7 +1054,9 @@ button
 			.price
 				display: inline-block
 				padding: 0 5px
+				padding-left: 15px
 				width: 40%
+				height: 50px
 				.price-old
 					font-size: 14px
 					display: block
@@ -1043,9 +1075,12 @@ button
 				z-index: 2
 				user-select: none
 				text-align: right
+				height: 50px
+				vertical-align: middle
 				.number
 					position: relative
-					top: -14px
+					top: -6px
+					text-align: center
 					input
 						display: inline-block
 						width: 25px
@@ -1060,9 +1095,11 @@ button
 				display: inline-block
 				width: 20%
 				text-align: right
-				margin-bottom: 15px
+				top: -11px
+				//margin-bottom: 15px
 				position: relative
-				top: -15px
+				padding-right: 10px
+				height: 50px
 
 	.pag-cont
 		margin-right: -23px
@@ -1732,4 +1769,8 @@ button
 						fill: #ffffff
 .fancybox-button--play, .fancybox-button--thumbs
 	display: none
+
+.menu-cont-slick
+	//position: fixed
+	top: 0px
 @import "media" // Всегда в конце

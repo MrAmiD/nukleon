@@ -57,5 +57,11 @@ $(function() {
     });
     api.bind( "close:finish", function( $panel ) {
         $("#menu-btn").removeClass('is-active');
-    }); 
+    });
+
+    $('.content-mainwin').css('padding-top', $('.head-line').height());
+    $('#my-header').css('height', $('.menu-cont-slick').height());
+    $( window ).resize(function() {
+        $('#my-header').css('height', $('.menu-cont-slick').height());
+    });
 });
